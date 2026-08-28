@@ -1,0 +1,6 @@
+transaction_id,amount,failure_code,ground_truth_succeed,ai_root_cause,ai_action,ai_reasoning,ai_retry_delay_hours,ai_attempts_used,ai_recovered_amount,naive_attempts_used,naive_recovered_amount
+txn_f759ea1f691c,1365.69,ERR_NETWORK_TIMEOUT,True,Network Error,IMMEDIATE_RETRY,Gateway timeout is a transient network issue; immediate retry is recommended.,0,1,1365.69,1,1365.69
+txn_4f946d083fa5,417.21,ERR_INSUFFICIENT_FUNDS,True,Insufficient Funds,DELAYED_RETRY_NOTIFY,"The failure code indicates insufficient funds, so a delayed retry with customer notification is appropriate.",48,1,417.21,1,417.21
+txn_cbd4abf402e3,4754.7,ERR_3DS_FAILED,False,OTP Failure,IMMEDIATE_RETRY,"3D Secure authentication failed, so an immediate retry with OTP prompt is the correct recovery strategy.",0,2,0.0,3,0.0
+txn_e4f89935d51e,4372.0,ERR_CARD_EXPIRED,False,Expired Card,NOTIFY_UPDATE_METHOD,"Card expired, so no retry is allowed; customer must update payment method.",0,0,0.0,3,0.0
+txn_53dbf1d04951,1543.47,ERR_INSUFFICIENT_FUNDS,False,Insufficient Funds,DELAYED_RETRY_NOTIFY,Issuer declined due to insufficient funds; delay retry and notify customer.,48,3,0.0,3,0.0

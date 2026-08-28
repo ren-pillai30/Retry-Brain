@@ -1,0 +1,251 @@
+transaction_id,merchant_id,customer_id,amount,currency,payment_method,failure_code,failure_reason_raw,failure_timestamp,customer_payment_history,retry_attempt_number,would_succeed_on_retry
+txn_f759ea1f691c,merch_860,cust_1915,1365.69,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T17:47:23.932706,7,0,True
+txn_4f946d083fa5,merch_620,cust_9398,417.21,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T11:02:23.932706,0,0,True
+txn_cbd4abf402e3,merch_881,cust_8804,4754.7,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T23:06:23.932706,0,0,False
+txn_e4f89935d51e,merch_824,cust_2153,4372.0,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T10:56:23.932706,2,0,False
+txn_53dbf1d04951,merch_320,cust_1102,1543.47,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T00:36:23.932706,4,0,False
+txn_e25768a0f52a,merch_811,cust_3617,2661.94,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T17:52:23.932706,9,0,False
+txn_236eda09ec8e,merch_923,cust_4345,611.17,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T03:00:23.932706,13,0,False
+txn_1d81920405d9,merch_163,cust_9365,1260.18,INR,netbanking,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T14:20:23.932706,0,0,False
+txn_6062e5b71f35,merch_325,cust_4402,589.79,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T14:14:23.932706,3,0,False
+txn_4792653c7ae6,merch_618,cust_8889,3894.63,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T02:43:23.932706,2,0,False
+txn_83ac6133e5f7,merch_198,cust_4977,2093.61,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T18:01:23.932706,4,0,False
+txn_15aa994c9392,merch_367,cust_3521,658.05,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T20:44:23.932706,1,0,False
+txn_f7f591ae3854,merch_394,cust_3278,4168.52,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T02:23:23.932706,11,0,False
+txn_b76b0fdd05ad,merch_717,cust_7674,323.59,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T03:06:23.932706,2,0,False
+txn_9bad856a1bd6,merch_417,cust_2801,609.21,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T23:37:23.932706,2,0,False
+txn_fd654999417f,merch_184,cust_1952,2997.79,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T11:59:23.932706,15,0,True
+txn_f9d2466b5dc3,merch_141,cust_2313,2520.79,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T16:02:23.932706,13,0,False
+txn_966b64caf515,merch_709,cust_6639,2709.11,INR,upi,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-26T20:22:23.932706,12,0,False
+txn_f03c5cf79888,merch_849,cust_8433,4327.39,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T09:41:23.932706,3,0,True
+txn_cd918e6b9bdc,merch_534,cust_3062,2538.61,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T06:57:23.932706,5,0,False
+txn_c884d65b775f,merch_570,cust_9916,4648.27,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T22:00:23.932706,11,0,False
+txn_205bd9334a25,merch_568,cust_6687,2149.01,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T05:58:23.932706,1,0,True
+txn_8b13330c845a,merch_114,cust_1964,4920.61,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T00:12:23.932706,0,0,True
+txn_d62b2bb5a891,merch_746,cust_5198,2862.17,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T19:34:23.932706,2,0,True
+txn_c8b641230ffb,merch_663,cust_4256,1026.87,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T05:04:23.932706,6,0,False
+txn_0635e0194ae7,merch_407,cust_5956,1801.24,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T05:35:23.932706,6,0,False
+txn_a225bb898d61,merch_813,cust_5248,3640.78,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T22:48:23.932706,5,0,False
+txn_77f75db4cadc,merch_882,cust_7306,4072.74,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T05:08:23.932706,2,0,True
+txn_621f15b22f36,merch_724,cust_5332,4608.11,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T15:57:23.932706,15,0,False
+txn_2a9dfd576165,merch_417,cust_5521,4371.92,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T20:53:23.932706,14,0,False
+txn_eda183c4cb9c,merch_792,cust_6327,3810.86,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T08:14:23.932706,14,0,False
+txn_c784772e34f8,merch_389,cust_5731,2350.86,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T04:46:23.932706,0,0,False
+txn_00c7337fa320,merch_368,cust_5330,3461.7,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T04:27:23.932706,8,0,False
+txn_518e59248e2e,merch_810,cust_5984,4971.75,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T00:35:23.932706,10,0,True
+txn_f207ed789a8f,merch_277,cust_3564,3555.91,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T08:03:23.932706,1,0,False
+txn_2a6c4b72ed21,merch_149,cust_4168,983.4,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T07:51:23.932706,5,0,False
+txn_863909ad8876,merch_526,cust_3667,4758.09,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T06:38:23.932706,1,0,False
+txn_7872c224388c,merch_509,cust_7644,125.0,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T01:47:23.932706,15,0,False
+txn_e3d576dcc48b,merch_243,cust_6343,4864.25,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T18:18:23.932706,14,0,False
+txn_7fad95274484,merch_294,cust_8357,266.3,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T02:23:23.932706,7,0,False
+txn_0fefd7069c28,merch_660,cust_6204,4893.65,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T03:05:23.932706,7,0,True
+txn_3ff316176a29,merch_962,cust_7859,4987.73,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T04:50:23.932706,14,0,True
+txn_e99548203f10,merch_974,cust_3163,4861.21,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T11:03:23.932706,6,0,False
+txn_9c56346123db,merch_497,cust_8072,3688.43,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T19:56:23.932706,15,0,True
+txn_7abf95a88898,merch_300,cust_9714,1422.9,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T16:40:23.932706,9,0,True
+txn_d982b9989788,merch_950,cust_7969,1092.68,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T09:56:23.932706,15,0,True
+txn_9eb137588e57,merch_784,cust_3417,505.53,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T14:24:23.932706,7,0,False
+txn_1f7ad0b0966f,merch_603,cust_6183,2791.83,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T06:13:23.932706,15,0,False
+txn_1ccd06c60c27,merch_905,cust_2570,1311.57,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T13:31:23.932706,1,0,True
+txn_b6667df5cfc8,merch_774,cust_1499,4953.42,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T00:02:23.932706,5,0,False
+txn_2fa91eded5b7,merch_711,cust_6132,2854.63,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T21:45:23.932706,6,0,True
+txn_3143cad54bef,merch_660,cust_1584,4776.16,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T17:07:23.932706,7,0,False
+txn_ce11a939a9a0,merch_392,cust_6418,1248.4,INR,card,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T10:59:23.932706,10,0,False
+txn_f75e89ad2c04,merch_830,cust_9399,3719.0,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T06:56:23.932706,13,0,True
+txn_c70347c87c29,merch_908,cust_1811,399.82,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T01:04:23.932706,9,0,True
+txn_52052cac76c4,merch_866,cust_5740,4513.63,INR,netbanking,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-27T04:37:23.932706,12,0,False
+txn_66e3f5960ac5,merch_442,cust_4533,4466.55,INR,upi,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-26T21:43:23.932706,3,0,False
+txn_7fe451234a0a,merch_901,cust_4572,3816.53,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T15:23:23.932706,2,0,False
+txn_c8bab02fe55e,merch_106,cust_3545,3003.26,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T03:10:23.932706,5,0,False
+txn_7fc4b8f987a5,merch_308,cust_6581,3569.73,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T14:49:23.932706,4,0,False
+txn_b11268297171,merch_373,cust_7986,1714.58,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T03:04:23.932706,14,0,False
+txn_266ad849d3d0,merch_771,cust_9547,3903.42,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T15:47:23.932706,0,0,False
+txn_3ae37d8323cc,merch_685,cust_6834,2913.19,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T13:25:23.932706,5,0,False
+txn_29f81e12814d,merch_540,cust_7652,2738.05,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T23:17:23.932706,10,0,True
+txn_792eb8056f42,merch_496,cust_8435,1822.04,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T03:05:23.932706,3,0,True
+txn_2798d9b58ed7,merch_920,cust_1713,374.19,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T06:37:23.932706,15,0,False
+txn_5407b074e0fb,merch_871,cust_1261,838.25,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T04:31:23.932706,5,0,False
+txn_483852c94a99,merch_372,cust_8596,4044.33,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T18:30:23.932706,12,0,False
+txn_92dc14283734,merch_239,cust_8070,2273.06,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T22:49:23.932706,8,0,False
+txn_6612e0886f45,merch_949,cust_8763,652.09,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T10:07:23.932706,1,0,False
+txn_23212a6cb08d,merch_789,cust_4255,4707.99,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T06:35:23.932706,8,0,False
+txn_fdb4c08d5f70,merch_247,cust_3284,300.01,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T02:37:23.932706,6,0,False
+txn_e62ac11858e8,merch_366,cust_9521,426.51,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T12:12:23.932706,9,0,False
+txn_ad35bee8fa4b,merch_189,cust_8804,3346.54,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T15:17:23.932706,2,0,False
+txn_500c144189e6,merch_565,cust_5473,2283.65,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T05:28:23.932706,15,0,True
+txn_332657d00b04,merch_725,cust_1989,4342.71,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T03:55:23.932706,13,0,False
+txn_236473afbadc,merch_757,cust_9999,2279.95,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T17:47:23.932706,10,0,True
+txn_db21371406a1,merch_915,cust_4305,4690.48,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T00:50:23.932706,4,0,False
+txn_5d9046908d64,merch_332,cust_6355,837.38,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T06:49:23.932706,13,0,True
+txn_407500a4d3e4,merch_507,cust_6681,4115.46,INR,upi,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-26T15:10:23.932706,11,0,False
+txn_e7835231c054,merch_141,cust_6578,4823.32,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T12:14:23.932706,12,0,True
+txn_f43d75e73036,merch_125,cust_6020,4708.52,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T14:14:23.932706,6,0,True
+txn_a6370570e09d,merch_585,cust_8752,4169.75,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T05:50:23.932706,7,0,True
+txn_f9ed4acf045e,merch_510,cust_6717,2293.33,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T08:29:23.932706,11,0,True
+txn_4ba65a849380,merch_722,cust_5063,4123.29,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T23:37:23.932706,7,0,True
+txn_30aa1191dc6c,merch_942,cust_7814,2421.64,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T09:33:23.932706,13,0,False
+txn_2de766d15dc4,merch_521,cust_7080,2908.21,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T13:42:23.932706,9,0,True
+txn_ac8bdfb95595,merch_272,cust_2606,1046.01,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T20:13:23.932706,12,0,False
+txn_a23e5e2bfea0,merch_837,cust_7358,3356.29,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T11:40:23.932706,15,0,False
+txn_f1eda96e1d3c,merch_135,cust_7869,4491.02,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T00:35:23.932706,13,0,True
+txn_24405cb61a7f,merch_280,cust_9066,106.47,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T15:32:23.932706,6,0,False
+txn_8639e83fdcd8,merch_215,cust_5405,2808.84,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T11:07:23.932706,10,0,False
+txn_c0674d4dae73,merch_201,cust_5166,2719.09,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T13:29:23.932706,12,0,False
+txn_6c82700c572b,merch_352,cust_2994,3042.59,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T00:19:23.932706,5,0,False
+txn_295ccc02e022,merch_233,cust_5774,627.43,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T05:44:23.932706,4,0,False
+txn_f6eb99130da7,merch_254,cust_5707,460.35,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T14:45:23.932706,5,0,False
+txn_501c962a88fd,merch_339,cust_2583,4418.14,INR,card,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-26T16:36:23.932706,3,0,False
+txn_e562dc33dd8f,merch_645,cust_2047,1910.69,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T03:42:23.932706,10,0,False
+txn_a9a2b888c37e,merch_214,cust_5573,4685.22,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T01:03:23.932706,10,0,False
+txn_1655188478eb,merch_369,cust_7689,3264.92,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T14:18:23.932706,6,0,False
+txn_2f48214d5870,merch_757,cust_3322,3036.8,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T07:10:23.932706,0,0,True
+txn_26508916b4ea,merch_803,cust_2833,3928.58,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T01:28:23.932706,5,0,True
+txn_7565b1c668dc,merch_492,cust_2559,330.26,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T17:38:23.932706,15,0,True
+txn_e1067110cc7a,merch_303,cust_9960,825.72,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T10:00:23.932706,5,0,False
+txn_5ad068e11083,merch_841,cust_2964,4476.25,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T09:30:23.932706,12,0,False
+txn_049050726100,merch_174,cust_5210,4143.78,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T10:15:23.932706,12,0,False
+txn_bf8875345f9c,merch_863,cust_7818,219.11,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T03:53:23.932706,6,0,True
+txn_b56103f162a6,merch_814,cust_7188,1789.99,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T17:03:23.932706,10,0,True
+txn_d354b10753bd,merch_135,cust_4310,2782.06,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T14:56:23.932706,6,0,True
+txn_987e37541542,merch_516,cust_3069,2531.37,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T03:24:23.932706,2,0,True
+txn_daed5c1bbd4c,merch_595,cust_8950,2776.91,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T16:39:23.932706,10,0,False
+txn_2c4afbcc6a98,merch_817,cust_3748,3815.32,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T11:57:23.932706,8,0,True
+txn_22abe6a6a95f,merch_748,cust_3876,3072.87,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T08:13:23.932706,9,0,True
+txn_f1dc8830494f,merch_910,cust_2549,331.96,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T06:29:23.932706,5,0,False
+txn_717fca0e41a2,merch_423,cust_3803,350.74,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T15:58:23.932706,14,0,True
+txn_dc149bc34f1a,merch_280,cust_2636,3889.4,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T02:02:23.932706,9,0,False
+txn_a8099ebfbc21,merch_565,cust_2392,2920.92,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T12:15:23.932706,7,0,True
+txn_0a728c8c0d81,merch_125,cust_2780,4555.99,INR,netbanking,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-26T15:34:23.932706,0,0,False
+txn_e4ddf97581b9,merch_404,cust_4978,4176.05,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-26T15:09:23.932706,5,0,False
+txn_50f351a4f161,merch_572,cust_2859,2985.52,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T08:08:23.932706,10,0,True
+txn_da1262861580,merch_119,cust_7152,3362.24,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T02:16:23.932706,14,0,False
+txn_3f02a9c91074,merch_434,cust_6439,212.28,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T17:33:23.932706,10,0,True
+txn_72b772d4d1eb,merch_890,cust_6943,1646.27,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T01:20:23.932706,5,0,True
+txn_f8605d9bb267,merch_788,cust_4162,1580.28,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T05:11:23.932706,7,0,True
+txn_eb5d4f808dbf,merch_911,cust_6458,982.44,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T18:32:23.932706,15,0,True
+txn_cfa9cc746fb0,merch_421,cust_5647,1360.08,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T17:46:23.932706,4,0,True
+txn_101d4e8b80df,merch_496,cust_5970,3214.57,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T09:33:23.932706,5,0,True
+txn_bedbd51a4df1,merch_735,cust_4107,4633.05,INR,upi,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-26T22:25:23.932706,15,0,False
+txn_8100e4705caa,merch_709,cust_7028,939.51,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T03:01:23.932706,2,0,True
+txn_3b7ec680567d,merch_797,cust_4820,3261.07,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T14:27:23.932706,6,0,True
+txn_d5c80a9535d1,merch_649,cust_6406,2249.48,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T11:56:23.932706,13,0,False
+txn_395b9719433c,merch_640,cust_2224,4373.24,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T02:36:23.932706,10,0,False
+txn_144d50d5f38d,merch_790,cust_8714,4963.93,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T07:43:23.932706,15,0,False
+txn_a52e9cc2be45,merch_770,cust_5107,391.94,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T17:51:23.932706,15,0,False
+txn_0105a005ded5,merch_470,cust_4507,3336.33,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T18:56:23.932706,0,0,True
+txn_b917df98f7a9,merch_866,cust_4350,3774.24,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T10:53:23.932706,3,0,True
+txn_a0559d4ace20,merch_776,cust_5952,238.66,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T08:30:23.932706,13,0,False
+txn_335ff5fd82bc,merch_808,cust_9225,2310.68,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T07:15:23.932706,7,0,False
+txn_337f560b3050,merch_213,cust_5438,131.63,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T06:28:23.932706,1,0,True
+txn_c33b049b4527,merch_417,cust_3933,2020.0,INR,upi,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T07:39:23.932706,3,0,False
+txn_3f7d1c7e3396,merch_581,cust_5556,4106.62,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T01:09:23.932706,8,0,True
+txn_453cb188fe00,merch_765,cust_3885,3125.38,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T11:40:23.932706,14,0,True
+txn_d6be3e52a1a3,merch_223,cust_9615,2053.84,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T09:17:23.932706,1,0,False
+txn_332ebf8c3e36,merch_109,cust_9186,1029.58,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T07:34:23.932706,12,0,False
+txn_c50c34256b19,merch_205,cust_1500,4398.43,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T13:43:23.932706,9,0,False
+txn_da9b97eaf9dd,merch_456,cust_4280,651.21,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T09:44:23.932706,13,0,False
+txn_da37823571c4,merch_333,cust_9744,2848.93,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T19:49:23.932706,7,0,False
+txn_4eaa3443db22,merch_592,cust_4078,2538.2,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T09:06:23.932706,10,0,True
+txn_33f36912bd80,merch_755,cust_1211,1375.33,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T07:08:23.932706,15,0,True
+txn_760294c62d8e,merch_157,cust_1450,4351.84,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T23:24:23.932706,1,0,True
+txn_dc4a8a6a02a2,merch_776,cust_7155,1233.45,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-26T20:30:23.932706,1,0,False
+txn_329837c63b40,merch_800,cust_9798,3921.11,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T15:48:23.932706,14,0,True
+txn_56cbc5ca1bde,merch_452,cust_6735,2324.26,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-26T20:15:23.932706,1,0,False
+txn_f22ebbc6279d,merch_450,cust_7619,4938.43,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T01:52:23.932706,5,0,True
+txn_e6862a0ef7fb,merch_641,cust_6738,4775.87,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T18:22:23.932706,2,0,True
+txn_922ed9b46d2e,merch_799,cust_5086,3395.72,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T11:01:23.932706,15,0,True
+txn_14bf9a0f061a,merch_130,cust_9571,3716.24,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T13:37:23.932706,1,0,False
+txn_bd6b33127495,merch_584,cust_4096,438.06,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T22:05:23.932706,12,0,False
+txn_a45976cf57fa,merch_742,cust_9328,1687.02,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T15:30:23.932706,11,0,True
+txn_742454ef9089,merch_809,cust_2809,3688.88,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T02:54:23.932706,11,0,False
+txn_1741c2ce3154,merch_163,cust_3230,3742.34,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T12:42:23.932706,4,0,True
+txn_0eea9a550c39,merch_962,cust_8614,1603.48,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T11:02:23.932706,10,0,False
+txn_0e9b5c2d3d5c,merch_471,cust_6038,2070.2,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T04:08:23.932706,12,0,True
+txn_16f64ae91c2b,merch_748,cust_7304,4900.31,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-26T18:59:23.932706,7,0,False
+txn_07aea82c9c93,merch_220,cust_4606,2041.96,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T09:52:23.932706,7,0,False
+txn_eb90c8176c77,merch_917,cust_9907,4894.78,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T16:26:23.932706,10,0,True
+txn_2d3a3fe69c43,merch_743,cust_9301,730.59,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T14:34:23.932706,2,0,True
+txn_7f5cd23fab80,merch_731,cust_8699,2878.19,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T19:25:23.932706,0,0,False
+txn_69770dd4a6a2,merch_661,cust_1783,1094.27,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T21:48:23.932706,15,0,False
+txn_246a73018167,merch_876,cust_1959,2498.5,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T03:56:23.932706,15,0,False
+txn_35ce84fd7202,merch_279,cust_5074,2342.01,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T13:51:23.932706,5,0,False
+txn_9d951f20aebf,merch_961,cust_8398,2734.83,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T21:17:23.932706,8,0,True
+txn_ea1bb654786f,merch_847,cust_5607,3276.3,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T12:41:23.932706,12,0,False
+txn_15001b88ffb1,merch_296,cust_3239,4468.45,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T03:10:23.932706,14,0,False
+txn_3d1fe47ebbcc,merch_292,cust_2332,1855.19,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T16:06:23.932706,8,0,False
+txn_33834a53b810,merch_542,cust_7704,4594.3,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T19:46:23.932706,10,0,True
+txn_9463a6522a99,merch_470,cust_9521,3563.38,INR,netbanking,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T01:55:23.932706,2,0,False
+txn_af3b4d2aa9dd,merch_103,cust_6309,2152.61,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T11:16:23.932706,1,0,False
+txn_c81368a715ec,merch_340,cust_9442,3498.96,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T10:38:23.932706,5,0,True
+txn_ff5619eb9eb6,merch_204,cust_2118,1392.75,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T08:04:23.932706,3,0,True
+txn_2ad5240fcf07,merch_943,cust_3645,4831.82,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T00:40:23.932706,12,0,False
+txn_a04c68fef942,merch_774,cust_2373,2156.85,INR,netbanking,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T02:04:23.932706,12,0,False
+txn_e16e2d3aa8d8,merch_214,cust_3508,4642.96,INR,upi,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-28T05:30:23.932706,14,0,False
+txn_fb70422a8ab5,merch_669,cust_9191,1349.64,INR,netbanking,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T20:27:23.932706,4,0,False
+txn_9a3f6e5d44d9,merch_814,cust_9927,551.25,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-26T20:21:23.932706,0,0,False
+txn_8b5b393f6e99,merch_312,cust_4384,3625.19,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T07:25:23.932706,12,0,True
+txn_049730398420,merch_471,cust_6437,325.3,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-26T21:41:23.932706,12,0,False
+txn_1e8ecacae293,merch_108,cust_1527,2822.98,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T21:15:23.932706,10,0,False
+txn_960c27c4dae8,merch_457,cust_2097,3916.39,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T13:19:23.932706,3,0,True
+txn_f86a091a088b,merch_482,cust_4226,1339.16,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T10:19:23.932706,12,0,True
+txn_ebb1fc1db29f,merch_323,cust_7045,3272.62,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T19:37:23.932706,13,0,True
+txn_4ef50add4ff0,merch_662,cust_7998,1489.25,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T00:20:23.932706,14,0,True
+txn_e2ce96e30c66,merch_155,cust_5598,2334.23,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T07:28:23.932706,7,0,False
+txn_2e571c598883,merch_168,cust_8736,1772.23,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T22:21:23.932706,14,0,False
+txn_748bc7925509,merch_627,cust_4346,2676.12,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T12:23:23.932706,4,0,False
+txn_59d21b8d1c31,merch_812,cust_7075,2713.97,INR,card,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T00:42:23.932706,13,0,False
+txn_a0da00e4d2ba,merch_641,cust_5554,4322.08,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T03:48:23.932706,14,0,True
+txn_e161ee2bcc33,merch_821,cust_6054,3861.32,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-28T01:43:23.932706,12,0,False
+txn_0040bdbbfa54,merch_501,cust_2943,862.92,INR,upi,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-27T07:38:23.932706,6,0,False
+txn_e4bfb6914110,merch_525,cust_7112,1875.53,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T02:28:23.932706,13,0,True
+txn_bfb319c2e644,merch_400,cust_2942,2836.76,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T09:19:23.932706,5,0,True
+txn_7de628b46a7a,merch_185,cust_2517,3603.45,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T13:31:23.932706,3,0,True
+txn_c6d887873615,merch_623,cust_5383,172.01,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T04:20:23.932706,3,0,False
+txn_9fd556343f63,merch_540,cust_6102,2385.35,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T00:26:23.932706,7,0,False
+txn_c43f29af91e8,merch_826,cust_1206,4509.35,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T16:41:23.932706,14,0,True
+txn_5e8c8a9e41b7,merch_807,cust_8970,131.35,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T02:11:23.932706,4,0,True
+txn_7b8ac57c1706,merch_855,cust_1390,1950.69,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T23:22:23.932706,15,0,False
+txn_65bc0a2de4c0,merch_391,cust_1033,3632.31,INR,upi,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-28T04:09:23.932706,15,0,False
+txn_6f3e2c9d5eaf,merch_691,cust_3462,1173.73,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T15:04:23.932706,10,0,True
+txn_c5748ec9ca46,merch_509,cust_3773,259.66,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T22:40:23.932706,13,0,False
+txn_b6e8a4145cf0,merch_687,cust_9820,4244.43,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T11:16:23.932706,3,0,False
+txn_d2ce6040b774,merch_593,cust_7101,3603.36,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T22:50:23.932706,1,0,True
+txn_6884958e9114,merch_242,cust_3689,3505.12,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T01:58:23.932706,3,0,False
+txn_033e12231a9d,merch_255,cust_1655,2552.5,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T17:26:23.932706,4,0,True
+txn_fc4d123a749c,merch_883,cust_9336,3556.09,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T18:44:23.932706,9,0,False
+txn_5d87ac64a7c2,merch_568,cust_6994,501.76,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T17:30:23.932706,10,0,True
+txn_e4ad9bbd7d5f,merch_392,cust_8832,1148.29,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T15:53:23.932706,15,0,False
+txn_bc9a2cbd400a,merch_514,cust_8792,2448.62,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T15:44:23.932706,7,0,False
+txn_7446379ae042,merch_733,cust_1279,2805.19,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T10:12:23.932706,13,0,False
+txn_64613df75127,merch_417,cust_6451,1344.99,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T16:12:23.932706,1,0,False
+txn_5e2fb9fe329d,merch_755,cust_9059,1842.25,INR,netbanking,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-26T22:52:23.932706,15,0,False
+txn_b70eeab96bbb,merch_704,cust_3494,1540.46,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T14:52:23.932706,8,0,False
+txn_e4d4d45d27a3,merch_524,cust_2714,4204.35,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T02:36:23.932706,14,0,False
+txn_265b47bc920a,merch_816,cust_6489,2163.56,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T17:46:23.932706,8,0,False
+txn_f5430f7dbbac,merch_908,cust_3433,2186.12,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-26T17:01:23.932706,1,0,False
+txn_e22f676b9d45,merch_903,cust_6699,3953.74,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T23:00:23.932706,11,0,True
+txn_3f1314b23659,merch_941,cust_2356,374.15,INR,upi,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T04:33:23.932706,7,0,False
+txn_6edf69fb1a98,merch_734,cust_8831,2793.57,INR,netbanking,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-27T20:29:23.932706,3,0,True
+txn_3243494b0b68,merch_184,cust_2696,4770.64,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T06:33:23.932706,1,0,True
+txn_848d31c8292f,merch_183,cust_5759,2448.29,INR,upi,ERR_DUPLICATE_TXN,Duplicate transaction detected,2026-08-27T05:51:23.932706,8,0,False
+txn_85a95c241e65,merch_414,cust_1688,1418.5,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T00:38:23.932706,7,0,False
+txn_9c38131d0926,merch_405,cust_9284,1588.22,INR,card,ERR_3DS_FAILED,3D Secure authentication failed or abandoned,2026-08-27T05:25:23.932706,5,0,False
+txn_12df1a71cf91,merch_600,cust_4325,4967.21,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T08:44:23.932706,4,0,False
+txn_87bed06091da,merch_168,cust_5176,3072.13,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T09:49:23.932706,5,0,True
+txn_9c0d89b7915a,merch_882,cust_9841,4095.02,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T03:46:23.932706,7,0,True
+txn_1cf5b500dfbd,merch_432,cust_9753,644.87,INR,upi,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-28T04:00:23.932706,2,0,False
+txn_2ec4b1a4c116,merch_846,cust_3728,3740.47,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T21:25:23.932706,3,0,True
+txn_7fa686351d71,merch_186,cust_9016,3396.8,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T14:47:23.932706,5,0,False
+txn_9f9c7bf72cce,merch_348,cust_8366,1855.59,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T00:13:23.932706,1,0,False
+txn_b14355e68108,merch_450,cust_1204,1735.33,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T05:46:23.932706,8,0,False
+txn_134571bfad0c,merch_622,cust_6534,4717.64,INR,card,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-28T02:49:23.932706,10,0,False
+txn_1d45aae50768,merch_838,cust_3745,1724.98,INR,upi,ERR_DO_NOT_HONOR,Issuer declined: Do not honor / Risk block,2026-08-27T04:16:23.932706,2,0,False
+txn_13893117e086,merch_190,cust_1550,1001.09,INR,netbanking,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T13:24:23.932706,8,0,True
+txn_f6f0c0eadcdb,merch_281,cust_6240,3415.42,INR,upi,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T16:34:23.932706,12,0,False
+txn_593d1d8f7983,merch_732,cust_2748,2164.08,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T01:31:23.932706,9,0,True
+txn_8bc7453c2ecb,merch_694,cust_3694,3553.61,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-27T20:25:23.932706,2,0,False
+txn_7cd625bfda58,merch_313,cust_6040,3634.79,INR,upi,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-28T08:36:23.932706,13,0,False
+txn_2f649c7c164a,merch_715,cust_7225,1480.02,INR,card,ERR_INSUFFICIENT_FUNDS,Issuer declined: Insufficient funds in account,2026-08-27T17:18:23.932706,0,0,False
+txn_0164a8469497,merch_931,cust_8345,2064.29,INR,card,ERR_NETWORK_TIMEOUT,Gateway timeout during authorization,2026-08-26T16:24:23.932706,7,0,True
+txn_fc721c085034,merch_742,cust_1909,1570.95,INR,netbanking,ERR_CARD_EXPIRED,Transaction declined: Card expired,2026-08-26T21:19:23.932706,14,0,False
